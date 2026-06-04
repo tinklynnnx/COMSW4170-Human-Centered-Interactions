@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css" />
+</head>
+
+<body>
+<div class="container">
+    <h1>To-Do List</h1>
+
+    <section class="section-input">
+        <div class="input-group">
+            <input type="text" id="teammateName" placeholder="Teammate Name" />
+            <button onclick="addTeammate()">Add</button>
+        </div>
+    </section>
+
+    <section class="section-input">
+        <div class="input-group">
+            <select id="teammateSelector">
+                <option value="" disabled selected>Assign to</option>
+                <!-- Teammates will be added dynamically -->
+            </select>
+            <input type="text" id="taskName" placeholder="Task" />
+            <input type="date" id="dueDate" />
+            <button onclick="addTask()">Assign</button>
+        </div>
+    </section>
+
+    <section class="section-list">
+        <hr />
+        <div id="taskList">
+            <!-- Tasks will be rendered here dynamically -->
+            <div class="empty-message">No tasks right now. Please add a teammate and assign a task.</div>
+        </div>
+        <hr />
+    </section>
+
+    <div class="reset-group">
+        <button id="deleteCompleted">Clear Completed</button>
+        <button id="reset">Reset</button>
+    </div>
+</div>
+
+<script src="assignment2.js"></script>
+</body>
+</html>

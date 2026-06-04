@@ -1,0 +1,99 @@
+/*entire box/body*/
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    min-height: 100vh;
+    background: #f0f0f0;
+    font-family: 'Nunito Sans', sans-serif;
+}
+/*outside box with no border */
+.largecard {
+    justify-content: center;
+    width: 250px;
+    padding: 10px;
+    background: white;
+    text-align: center;
+    align-items: center;
+}
+/*inner box with black border */
+.smallcard {
+    justify-content: center;
+    width: 230px;
+    margin: 0 auto;
+    padding: 9px;
+    background: white;
+    text-align: center;
+    border: 2px solid black;
+}
+/*yellow title box with black border*/
+.titlecase{
+    justify-content: center;
+    width: 228px;
+    margin: 0 auto;
+    background-color: yellow;
+    border: 2px solid black;
+    text-align: center;
+    padding: 2px 0 2 0;
+}
+/*with # Houses row*/
+.row {
+    display: flex;
+    justify-content: space-between;
+    font-size: 0.95em;
+    margin: 2px 0;
+}
+/*with # Houses row: # of houses left alignment*/
+.left {
+    text-align: left;
+    padding-left: 8px;
+}
+/*with # Houses row: price amount right alignment*/
+.right {
+    text-align: right;
+    padding-right: 20px;
+}
+/*with # Houses row: $ aligned with left of 1 of 1025*/
+.dollar{
+    text-align: right;
+    padding-right:8px;
+}
+/*MARGIN GARDENS Font style*/
+.title1 {
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Montserrat', serif;
+    font-weight: bold;
+    letter-spacing: 2px;
+    margin-bottom: 6px;
+}
+/*TITLE DEED Font style*/
+.title2 {
+    text-align: center;
+    font-size: 9.6px;
+    font-family: 'Montserrat', serif;
+    font-weight: bold;
+    letter-spacing: 4px;
+    margin: 5px 0;
+}
+/*Font style: all body text from rent to plus 4 houses*/
+.details {
+    width: 220px;
+    padding: 6px;
+    font-size: 14px;
+    text-align: center;
+    margin-bottom: 0px;
+}
+/*bottom discription Font style (left align)*/
+.footer {
+    font-size: 9px;
+    text-align: left;
+    padding: 5px 5px 0px 5px;
+}
+/*copy right Font style (centred)*/
+.copyright {
+    font-size: 9px;
+    text-align: center;
+}
