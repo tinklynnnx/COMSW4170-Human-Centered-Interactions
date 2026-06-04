@@ -1,0 +1,82 @@
+[
+    {
+        "id": 1,
+        "name": "Edge Raw to the Core Tee",
+        "description": "Introducing the Edge Raw to the Core Tee, a bold statement piece for those who live life on the edge. Crafted from ultra-soft cotton with a raw hem finish, this tee combines rugged style with all-day comfort. Its minimalist design and sleek fit make it versatile for any occasion, while the edgy, distressed details give it a rebellious twist. Whether you're hitting the streets or lounging at home, the Edge Raw to the Core Tee lets you stay true to your authentic self: raw, fearless, and unapologetically you.",
+        "category": "New Arrivals",
+        "price": 700,
+        "discount": 0,
+        "image": "images/product-1.jpg",
+        "thumbnail_image": "images/product-1-thumb.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Concepts Standard Backpack",
+        "description": "The Concepts Standard Backpack is your go-to everyday essential, blending functionality with minimalist design. Featuring a spacious main compartment, padded laptop sleeve, and multiple pockets for easy organization, this backpack is perfect for work, school, or weekend getaways. Its durable, water-resistant material ensures your belongings stay protected, while the ergonomic straps provide all-day comfort. The sleek, understated style makes the Concepts Standard Backpack versatile for any occasion, keeping you ready for whatever the day brings.",
+        "category": "New Arrivals",
+        "price": 150,
+        "discount": 0,
+        "image": "images/product-2.jpg",
+        "thumbnail_image": "images/product-2-thumb.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Sonata Triceratops Hoodie",
+        "description": "The Sonata Triceratops Hoodie brings bold, prehistoric vibes to your everyday style. Featuring a striking triceratops graphic, this ultra-soft hoodie combines comfort with a touch of adventure. Made from premium fleece for warmth and coziness, it has a relaxed fit, a front kangaroo pocket, and an adjustable drawstring hood for added versatility. Whether you're lounging at home or exploring the outdoors, the Sonata Triceratops Hoodie lets you stay fierce and stylish with a playful nod to the past.",
+        "category": "New Arrivals",
+        "price": 800,
+        "discount": 50,
+        "image": "images/product-3.jpg",
+        "thumbnail_image": "images/product-3-thumb.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Valor Signature Hoodie",
+        "description": "The Valor Signature Hoodie is the perfect blend of classic style and everyday comfort. Crafted from premium, soft fleece, this hoodie offers warmth and durability with a sleek, minimalist design. Featuring the bold Valor signature logo across the chest, it’s a statement piece that pairs effortlessly with any casual outfit. The adjustable drawstring hood, ribbed cuffs, and spacious kangaroo pocket add both functionality and comfort, making the Valor Signature Hoodie an essential for those who value style and substance.",
+        "category": "New Arrivals",
+        "price": 900,
+        "discount": 50,
+        "image": "images/product-4.jpg",
+        "thumbnail_image": "images/product-4-thumb.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Slate Vanity Hoodie",
+        "description": "The Slate Vanity Hoodie is designed for those who see every day as a blank canvas for self-expression. Made from ultra-soft, premium fabric, this hoodie offers a cozy fit with a minimalist design that serves as your slate to showcase your unique style. The clean, understated look invites you to personalize it with your confidence and creativity. Featuring an adjustable hood, ribbed cuffs, and a roomy front pocket, the Slate Vanity Hoodie combines comfort with the freedom to make your mark, letting your vanity shine through.",
+        "category": "New Arrivals",
+        "price": 100,
+        "discount": 0,
+        "image": "images/product-5.jpg",
+        "thumbnail_image": "images/product-5-thumb.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Essentials Green Tee",
+        "description": "The Essentials Green Tee is a wardrobe must-have for those who appreciate simplicity and style. Made from soft, breathable fabric, this classic tee delivers all-day comfort and versatility. Its rich green hue adds a fresh pop of color, making it easy to pair with anything from jeans to joggers. Whether you're dressing it up or keeping it casual, the Essentials Green Tee is the perfect foundation for any look. Stay effortlessly cool and comfortable with this go-to staple.",
+        "category": "New Arrivals",
+        "price": 500,
+        "discount": 0,
+        "image": "images/product-6.jpg",
+        "thumbnail_image": "images/product-6-thumb.jpg"
+    },
+    {
+        "id": 7,
+        "name": "All-Star Name Tag Tee",
+        "description": "The All-Star Name Tag Tee brings a playful twist to your casual wardrobe. Featuring a bold, custom name tag graphic front and center, this ultra-soft cotton tee makes sure you stand out in any crowd. Whether you're representing your team, your squad, or just yourself, the lightweight, breathable fabric keeps you comfortable all day. Perfect for pairing with jeans or layering up, the All-Star Name Tag Tee is a fun way to showcase your all-star status with confidence and style.",
+        "category": "New Arrivals",
+        "price": 200,
+        "discount": 25,
+        "image": "images/product-7.jpg",
+        "thumbnail_image": "images/product-7-thumb.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Concepts Deluxe Backpack",
+        "description": "The Concepts Deluxe Backpack takes everyday convenience to the next level, building on the versatility of the Concepts Standard Backpack with upgraded features for enhanced performance. With a larger capacity, premium materials, and extra-durable water-resistant fabric, this backpack offers superior protection for all your essentials. It includes a padded laptop sleeve, additional compartments for organized storage, and an external USB port for charging on the go. Ergonomic, reinforced straps and a breathable back panel ensure maximum comfort, making the Concepts Deluxe Backpack the perfect choice for those who demand more from their everyday gear.",
+        "category": "New Arrivals",
+        "price": 560,
+        "discount": 0,
+        "image": "images/product-2.jpg",
+        "thumbnail_image": "images/product-2-thumb.jpg"
+    }
+]
